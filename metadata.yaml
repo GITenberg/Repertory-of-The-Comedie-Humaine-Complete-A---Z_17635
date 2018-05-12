@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '924'
     url: http://www.gutenberg.org/2009/agents/924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17635#Repertory-of-The-Comedie-Humaine-Complete-A---Z
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
 identifiers:
